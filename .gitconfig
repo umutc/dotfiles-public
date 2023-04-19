@@ -38,8 +38,12 @@
 
 [hub]
   protocol = https
+[user]
+        name = Umut CELIK
+        email = mail@umutcelik.com.tr
+        signingKey = ""
 [github]
-	user = craftzdog
+	user = umutc
 [diff]
   tool = nvimdiff
 [difftool "nvimdiff"]
